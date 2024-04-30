@@ -1,4 +1,5 @@
-## 스프링 중간고사 예제 코드입니다.
+## 스프링 중간고사 예제 코드입니다. 
+<a href="https://shell-comet-db9.notion.site/2024-86cf1e12ee1e446f8f0bcb4cac0731e2?pvs=74" target="_blank">중간고사 필기 노션</a> 참고하세요~
 
 **이 저장소는 아래와 같은 코드를 다루고 있습니다!**
 
