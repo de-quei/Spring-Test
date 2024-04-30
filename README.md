@@ -4,4 +4,5 @@
 
 1. `AnnotationPractice` : 어노테이션을 활용해서 Bean 객체를 생성합니다.
 2. `JavaConstructorDIPracitce` : Java 방식으로 Bean 객체를 생성하고, 생성자를 통해 주입합니다.
-3. `JavaSetterDIPracitce` : Java 방식으로 Bean 객체를 생성하고, Setter를 이용하여 주입합니다.
+3. `JavaSetterDIPracitce` : Java 방식으로 Bean 객체를 생성하고, Setter를 이용하여 주입합니다.'
+4. `XmlPractice` : xml 방식으로 Bean 객체를 생성합니다.
